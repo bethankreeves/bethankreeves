@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bethankreeves aka Bethan 👩🏼‍🎓👩🏼‍💻 aka Beefy 🐄
+- 👋 Hi, I’m @bethankreeves aka Bethan 👩🏼‍🎓👩🏼‍💻 
 - 👀 I’m interested in all things data/data science, mental health/illness, representation and empowerment of women and girls in STEM and am a self-confessed cat lady 🐱🐈
 - 🌱 I’m currently learning: a lot... 
 
