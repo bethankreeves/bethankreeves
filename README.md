@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bethankreeves aka Bethan 👩🏼‍🎓👩🏼‍💻 
-- 👀 I’m interested in all things data/data science, mental health/illness, representation and empowerment of women and girls in STEM and am a self-confessed cat lady 🐱🐈
-- 🌱 I’m currently learning: a lot... 
+- Currently studying for Professional Doctorate Data Science at the University of East London
+- Working as Population Health Data Scientist at Merseycare NHS Foundation Trust
 
 
 <!---
